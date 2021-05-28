@@ -6,8 +6,3 @@
 - 👀 I am always hungry for new data/business model, that is yet unexplored.
 
 - 📫 Reach me by email: zainulabedin.marwat@gmail.com
-
-<!---
-Zain-UlAbedin/Zain-UlAbedin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
